@@ -10,3 +10,17 @@ EL de Beta
 Roberto Rocabado 
 Miguel Pinto
 Micaela Silvera
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+No, no hubo problemas 
+F- ¿Qué problemas surgieron?
+Ninguno
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+Al no haber problemas no hubo necesidad de aplicar nada
+H- ¿Qué sucede si cada uno utiliza el push -f?
+No tenemos idea
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO?
+Pararnos en la rama Desarrollo
+Aplicar el comando git merge origin Testing
