@@ -1,0 +1,12 @@
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+El color Blue
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+El color Yellow
+C- ¿Qué color de fondo tiene su página en el MASTER?
+El color Yellow
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+EL de Beta
+
+Roberto Rocabado 
+Miguel Pinto
+Micaela Silvera
